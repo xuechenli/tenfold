@@ -1,6 +1,6 @@
 # Tenfold
 
-##[Critique.pdf](tenfold/critique.pdf)
+##1. Critique [link](tenfold/critique.pdf)
 I did a little critique of the current website design. To my humble opinion, the current design is good at showing details of the products and the trust from our clients. But the most important things: how it works and why should the visitor choose it are not presented clearly. The visitor will only stay for seconds before they lose interest. This information must be standing out enough.
   Article resource:
   1. [What The Highest Converting Websites Do Differently](https://blog.kissmetrics.com/what-converting-websites-do/)
