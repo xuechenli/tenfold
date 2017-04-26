@@ -12,4 +12,15 @@ I think using a video in the header to show how the product works would be bette
 
 ## 3. [Website mock-up](tenfold/index.html)
 I used a very light framwork called [Skel](https://github.com/ajlkn/skel). And I tried to implement [this responsive navigation bar effect](http://codepen.io/rugor/pen/wayJQY) but it didn't work out well. I think it is because this example is referring a JS plugin and I haven't figured out how to use it. ¯\_(ツ)_/¯
-
+  CSS structure:
+  Reset
+  Grid
+  Type
+  Color
+  Image
+  List
+  Banner
+  Wrapper
+  Header
+  Video
+  Navigation
